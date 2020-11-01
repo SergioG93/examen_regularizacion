@@ -1,0 +1,36 @@
+
+
+
+/*Galeria*/
+.producto{
+    padding-left: 10em;
+    padding-top: 3em;
+}
+
+.catalogo{
+    float: left;
+    width: 22%;
+    height: 280px;
+    margin-top: 5em;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    
+}
+.articulo{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 4px;
+}
+
+/*mapa*/
+
+.mapa>h2{
+    margin-left: 25em;
+}
+
+/*Footer*/
+ .mensaje>p{
+     margin-right: 50em;
+     float: right;;
+ }
