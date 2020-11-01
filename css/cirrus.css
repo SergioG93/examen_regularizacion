@@ -6630,8 +6630,13 @@ video.video-fullscreen {
   height: auto;
   display: block; }
 
-.img-cover {
-  object-fit: cover; }
+.img-cover:hover {
+  object-fit: cover; 
+  transform: scale(1.5);
+}
+.img-cover{
+  transition: 1.5;
+}
 
 .img-contain {
   object-fit: contain; }
